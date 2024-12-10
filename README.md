@@ -20,17 +20,6 @@ Hello! I'm **Agustinus Aditya**, a **Full-Stack Developer** with over 2 years of
 
 ---
 
-## 🎓 Certifications
-- Cloud Practitioner Essentials (AWS)  
-- Learn to Create Front-End Web for Beginners  
-- Learn Web Programming Basics  
-- Learn JavaScript Programming Basics  
-- Learn AI Basics  
-- Beginner Back-End Learning with JavaScript  
-- Kickstart UI/UX Design Journey  
-
----
-
 ## 🌟 Let's Connect!
 Feel free to explore my projects and reach out for collaboration opportunities. 😊
 
