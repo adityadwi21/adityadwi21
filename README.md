@@ -35,8 +35,8 @@ Deskripsi singkat proyek. Misalnya:
 
 ## 📈 **Statistik GitHub**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadwi21&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwi21&layout=compact&theme=radical)  
 
 ---
 
@@ -53,7 +53,3 @@ Deskripsi singkat proyek. Misalnya:
 📱 WhatsApp: +62-123-4567  
 
 Jangan ragu untuk menghubungi saya atau memberikan ⭐️ pada proyek saya yang Anda sukai! 😊  
-
----
-
-Ganti `username` dengan nama pengguna GitHub Anda, dan sesuaikan konten dengan informasi pribadi serta proyek yang ingin Anda tampilkan. 🎨
