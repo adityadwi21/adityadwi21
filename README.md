@@ -8,7 +8,7 @@ I have 2+ years of experience as a Full-Stack Developer, with a primary focus on
 
 ---
 
-## 🛠 **Keahlian**  
+## 🛠 **Skill**  
 
 - **Technical Skills**: System Analysis and Project Management.
 - **Programming**: Javascript, PHP, CSS, HTML.
@@ -18,7 +18,7 @@ I have 2+ years of experience as a Full-Stack Developer, with a primary focus on
 
 ---
 
-## 📩 **Kontak**  
+## 📩 **Contact**  
 📧 Email: aditya.dwi.ch@gmail.com 
 
 Feel free to contact me or give ⭐️ to any of my projects you like! 😊  
