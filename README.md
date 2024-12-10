@@ -4,52 +4,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/agustinusaditya) 
 
 ### 👋 Hi there!  
-Saya adalah seorang **[profesi Anda, misalnya Software Developer]** dengan minat di bidang [sebutkan spesialisasi Anda, seperti pengembangan web, pembelajaran mesin, dll.]. Saya suka membangun solusi yang inovatif dan berdampak positif. 🚀  
+I have 2+ years of experience as a Full-Stack Developer, with a primary focus on Frontend Engineering. My expertise lies in using JavaScript and PHP to build projects, and I am also skilled in designing user interfaces with Figma. I am a lifelong learner with a passion for continuous growth and development. I excel in teamwork and actively keep up with the latest trends in technology. 🚀  
 
 ---
 
 ## 🛠 **Keahlian**  
 
-- **Bahasa Pemrograman**: Python, JavaScript, Java  
-- **Frameworks & Tools**: React, Django, Node.js  
-- **Database**: PostgreSQL, MongoDB  
-- **Lainnya**: Git, Docker, CI/CD  
-
----
-
-## 🚀 **Proyek Terpilih**  
-
-### [📱 Project 1: Aplikasi Mobile](https://github.com/username/project1)  
-Deskripsi singkat proyek. Misalnya:  
-- **Teknologi**: React Native, Firebase  
-- **Fitur Utama**: Autentikasi, Sinkronisasi waktu nyata  
-- **Kontribusi**: Memimpin pengembangan frontend  
-
-### [🌐 Project 2: Website E-commerce](https://github.com/username/project2)  
-Deskripsi singkat proyek. Misalnya:  
-- **Teknologi**: Django, PostgreSQL, Bootstrap  
-- **Fitur Utama**: Filter produk, Gateway pembayaran  
-- **Kontribusi**: Pengembangan backend dan pengujian  
-
----
-
-## 📈 **Statistik GitHub**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadwi21&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwi21&layout=compact&theme=radical)  
-
----
-
-## 🎯 **Tujuan Karier**  
-- Terus berkembang di bidang [spesialisasi Anda].  
-- Berkontribusi pada proyek sumber terbuka.  
-- Mengembangkan aplikasi/proyek yang berdampak besar.  
+- **Technical Skills**: System Analysis and Project Management.
+- **Programming**: Javascript, PHP, CSS, HTML.
+- **Frameworks & Tools**: React.js, Next.js, Express.js, Laravel.
+- **Database**: MySQL.
+- **Other**: Git, Figma
 
 ---
 
 ## 📩 **Kontak**  
-📧 Email: yourname@email.com  
-🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-📱 WhatsApp: +62-123-4567  
+📧 Email: aditya.dwi.ch@gmail.com 
 
-Jangan ragu untuk menghubungi saya atau memberikan ⭐️ pada proyek saya yang Anda sukai! 😊  
+Feel free to contact me or give ⭐️ to any of my projects you like! 😊  
