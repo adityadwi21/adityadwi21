@@ -1,7 +1,3 @@
-Berikut adalah versi README yang telah ditambahkan dengan tautan LinkedIn:
-
----
-
 # 👨‍💻 Agustinus Aditya
 
 **📍 Indonesia**  
@@ -39,5 +35,3 @@ Hello! I'm **Agustinus Aditya**, a **Full-Stack Developer** with over 2 years of
 Feel free to explore my projects and reach out for collaboration opportunities. 😊
 
 ---
-
-Tautan LinkedIn saya akan mengarahkan orang yang mengunjungi profil Anda untuk lebih mengenal pengalaman profesional Anda.
