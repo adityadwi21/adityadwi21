@@ -6,7 +6,7 @@ Berikut adalah versi README yang telah ditambahkan dengan tautan LinkedIn:
 
 **📍 Indonesia**  
 **📧 [aditya.dwi.ch@gmail.com](mailto:aditya.dwi.ch@gmail.com)**  
-**🔗 [LinkedIn](https://www.linkedin.com/in/agustinus-aditya)**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/agustinusaditya)**  
 
 ---
 
