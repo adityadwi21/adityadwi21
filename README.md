@@ -1,24 +1,43 @@
-
-# 🌟 **Agustinus Aditya**  
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/adityadwi21)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/agustinusaditya) 
-
-### 👋 Hi there!  
-I have 2+ years of experience as a Full-Stack Developer, with a primary focus on Frontend Engineering. My expertise lies in using JavaScript and PHP to build projects, and I am also skilled in designing user interfaces with Figma. I am a lifelong learner with a passion for continuous growth and development. I excel in teamwork and actively keep up with the latest trends in technology. 🚀  
+Berikut adalah versi README yang telah ditambahkan dengan tautan LinkedIn:
 
 ---
 
-## 🛠 **Skill**  
+# 👨‍💻 Agustinus Aditya
 
-- **Technical Skills**: System Analysis and Project Management.
-- **Programming**: Javascript, PHP, CSS, HTML.
-- **Frameworks & Tools**: React.js, Next.js, Express.js, Laravel.
-- **Database**: MySQL.
-- **Other**: Git, Figma
+**📍 Indonesia**  
+**📧 [aditya.dwi.ch@gmail.com](mailto:aditya.dwi.ch@gmail.com)**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/agustinus-aditya)**  
 
 ---
 
-## 📩 **Contact**  
-📧 Email: aditya.dwi.ch@gmail.com 
+## 🛠️ About Me
+Hello! I'm **Agustinus Aditya**, a **Full-Stack Developer** with over 2 years of experience specializing in **Frontend Engineering**. I enjoy crafting efficient and visually appealing user interfaces with **JavaScript** and **PHP**. A lifelong learner, I thrive in team environments and am passionate about staying up-to-date with the latest technologies.
 
-Feel free to contact me or give ⭐️ to any of my projects you like! 😊  
+---
+
+## 🔧 Skills
+- **Technical Skills:** System Analysis and Project Management.
+- **Programming Languages:** Javascript, PHP, CSS, HTML.
+- **Frameworks & Tools:** React.js, Next.js, Express.js, Laravel, Tailwind CSS.  
+- **Database:** MySQL.
+- **Tools:** Git, Figma  
+
+---
+
+## 🎓 Certifications
+- Cloud Practitioner Essentials (AWS)  
+- Learn to Create Front-End Web for Beginners  
+- Learn Web Programming Basics  
+- Learn JavaScript Programming Basics  
+- Learn AI Basics  
+- Beginner Back-End Learning with JavaScript  
+- Kickstart UI/UX Design Journey  
+
+---
+
+## 🌟 Let's Connect!
+Feel free to explore my projects and reach out for collaboration opportunities. 😊
+
+---
+
+Tautan LinkedIn saya akan mengarahkan orang yang mengunjungi profil Anda untuk lebih mengenal pengalaman profesional Anda.
