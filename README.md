@@ -3,16 +3,17 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> with over 2+ years of experience specializing in <strong>Frontend Engineering</strong>.<br/>
-  I enjoy crafting efficient and visually appealing user interfaces using <strong>JavaScript</strong> and <strong>PHP</strong>.<br/>
-  I'm a lifelong learner who thrives in collaborative environments and stays up-to-date with the latest technologies.
+  <strong>Full-Stack Developer</strong> with over 3+ years of experience in developing web applications and internal company systems.<br/>
+  Experienced in building ERP systems, real-time production monitoring systems, and admin dashboards using <strong>JavaScript</strong> and <strong>PHP</strong>.<br/>
+  Skilled in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Laravel</strong>, and <strong>MySQL</strong> database management.<br/>
+  Passionate about creating intuitive UI/UX designs with <strong>Figma</strong>, collaborating in teams, and maintaining system stability through version control and server management.
 </p>
 
 <div align="center">
   <a href="mailto:aditya.dwi.ch@gmail.com">
     <img src="https://img.shields.io/badge/Email-aditya.dwi.ch%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.agustinusaditya.site" target="_blank">
+  <a href="https://www.agustinusaditya.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-agustinusaditya.site-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" />
   </a>
   <a href="#">
