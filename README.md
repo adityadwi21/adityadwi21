@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-aditya.dwi.ch%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.agustinusaditya.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-agustinusaditya.site-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" />
+    <img src="https://img.shields.io/badge/Website-agustinusaditya.my.id-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Kediri,%20East%20Java,%20Indonesia-green?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
@@ -80,7 +80,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinusaditya)
-  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.agustinusaditya.site)
+  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.agustinusaditya.my.id)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.dwi.ch@gmail.com)
   
 </div>
